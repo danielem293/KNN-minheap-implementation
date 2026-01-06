@@ -21,8 +21,7 @@ The goal of this project was to understand the underlying mechanics of the algor
 I compared the performance of the standard KNN against the Weighted KNN across different K values (1 to 25).
 
 * **Best Accuracy:** about 80% was achieved with K=9.
-* **Regular vs. Weighted:** there was neglegable chance surprisingly in favour of the regular KNN, but overall performed the same, maybe due to
-* too much noise in the data
+* **Regular vs. Weighted:** there was neglegable chance surprisingly in favour of the regular KNN, but overall performed the same, maybe due to too much noise in the data
 
 the result:
 <img width="1728" height="1058" alt="Screenshot 2026-01-06 150928" src="https://github.com/user-attachments/assets/a24b4f5a-d34b-4a70-80ea-ce8813b69435" />
